@@ -1,0 +1,16 @@
+button{
+	width: 130px;
+	height: 40px;
+	border-radius: 5px;
+	border:none;
+	background-color: #167bff;
+	color: white;
+}
+a{
+	width: 130px;
+	height: 40px;
+	border-radius: 5px;
+	border:none;
+	background-color: #ff16ec;
+	color: white;
+}
